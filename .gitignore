@@ -1,0 +1,17 @@
+﻿# keep repo light
+/data/
+/emc_output/cam00_full/sv1p/render/
+/emc_output/cam00_full/sv1p/vis_keypoints2d/
+/emc_output/cam00_full/sv1p/keypoints2d/
+/emc_output/cam00_full/sv1p/keypoints3d/
+/emc_output/cam00_full/sv1p/pare/
+/emc_output/cam00_full/sv1p/person/
+/emc_output/cam00_full/sv1p/smpl/
+/emc_output/cam00_full/sv1p/smpl1/
+/emc_output/cam00_full/sv1p/smpl2/
+/emc_output/cam00_full/sv1p/smpl3/
+/emc_output/cam00_full/sv1p/smpl4/
+/emc_output/cam00_full/sv1p/smpl5/
+/emc_output/cam00_full/sv1p/smpl401/
+/emc_output/cam00_full/sv1p/smplx-output/
+/emc_output/cam01_full/

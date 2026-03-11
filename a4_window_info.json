@@ -1,0 +1,30 @@
+{
+  "a4_trim_logic": "TI start +3.5s, then A4 [543.5,723.5], trim 5s => [548.5,718.5]",
+  "target_window_rel_sec": [
+    548.5,
+    718.5
+  ],
+  "window_epoch_sec": [
+    1768807245.532307,
+    1768807415.460269
+  ],
+  "duration_sec": 169.92796206474304,
+  "cams": {
+    "00": {
+      "frame_start_idx": 17635,
+      "frame_end_idx": 22625,
+      "frame_count": 4991,
+      "ts_start": 1768807245.5266442,
+      "ts_end": 1768807415.4680605,
+      "ts_duration": 169.94141626358032
+    },
+    "01": {
+      "frame_start_idx": 17117,
+      "frame_end_idx": 21935,
+      "frame_count": 4819,
+      "ts_start": 1768807245.522594,
+      "ts_end": 1768807415.4610007,
+      "ts_duration": 169.93840670585632
+    }
+  }
+}

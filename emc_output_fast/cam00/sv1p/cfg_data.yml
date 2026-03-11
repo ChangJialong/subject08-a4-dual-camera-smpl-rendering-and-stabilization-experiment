@@ -1,0 +1,13 @@
+module: myeasymocap.datasets.sv1p.SVDataset
+args:
+    root: D:\08A4_kgy\data\cam00
+    subs: ['08A4_00']
+    ranges: [0, 30, 1]
+    read_image: True
+    reader:
+        images:
+            root: images
+            ext: .jpg
+        image_shape:
+            root: images
+            ext: .jpg
