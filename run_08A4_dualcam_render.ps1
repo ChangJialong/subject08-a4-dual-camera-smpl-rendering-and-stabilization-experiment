@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop'
 $python = 'F:\software\Anaconda\envs\easymocap\python.exe'
-$emcRoot = 'C:\Users\Administrator\Documents\GitHub\EZcap_clean'
+$emcRoot = 'F:\GitHub\EZcap_clean'
 $env:PATH = 'F:\software\Anaconda\envs\easymocap\Library\bin;' + $env:PATH
 
 $jobs = @(
