@@ -17,7 +17,7 @@ This directory contains the full local experiment for Subject 08, Action A4, dua
 ## 2) Main inputs
 
 - Raw RS source: `D:\8\RS\recording_2026_01_19_15_10_44`
-- EasyMocap root used by scripts: `C:\Users\Administrator\Documents\GitHub\EZcap_clean`
+- EasyMocap root used by scripts: `F:\GitHub\EZcap_clean`
 
 ## 3) Main outputs
 

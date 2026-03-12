@@ -8,7 +8,7 @@
 - Purpose: run EasyMocap for both cam00 and cam01, save logs, clean `EZcap_clean/output/sv1p` temporary folder after completion.
 - Inputs:
   - Python env: `easymocap`
-  - EMC root: `C:\Users\Administrator\Documents\GitHub\EZcap_clean`
+  - EMC root: `F:\GitHub\EZcap_clean`
   - Config ymls in `D:\08A4_kgy\configs`
   - Data roots in `D:\08A4_kgy\data\cam00|cam01`
 - Outputs:
